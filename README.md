@@ -54,6 +54,8 @@ Enter your pattern and see the results.
 
 ### Code:
 
+Note - RgxGen is not thread safe - there were reports on errors - see [#91](https://github.com/curious-odd-man/RgxGen/issues/91).
+
 ```java
 public class Main {
     public static void main(String[] args) {
